@@ -1,0 +1,168 @@
+﻿{
+  "title": "team-block-1",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "team-block-1",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/3 + 1/3 + 1/3",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/3",
+              "elements": [
+                {
+                  "_type": "image",
+                  "image_style": "thumbnail",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640",
+                  "class": "aligncenter"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe",
+                  "class": "mtn mbs",
+                  "text_align": "center-text",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Analyst",
+                  "text_align": "center-text",
+                  "level": "h6",
+                  "looks_like": "h6",
+                  "class": "mtn mbm",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Jane loves going on hikes, strolling along the beach, hot chocolate, and playing with her kids. Her favorite color is blue, and she enjoys orange juice.",
+                  "text_align": "center-text",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "<strong>Email:</strong> <a href=\"#\">jane@yoursite.com</a>\n<strong>Phone:</strong> (123) 456-7890",
+                  "text_align": "center-text",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "image",
+                  "image_style": "thumbnail",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640",
+                  "class": "aligncenter"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe",
+                  "class": "mtn mbs",
+                  "text_align": "center-text",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Analyst",
+                  "text_align": "center-text",
+                  "level": "h6",
+                  "looks_like": "h6",
+                  "class": "mtn mbm",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Jane loves going on hikes, strolling along the beach, hot chocolate, and playing with her kids. Her favorite color is blue, and she enjoys orange juice.",
+                  "text_align": "center-text",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "<strong>Email:</strong> <a href=\"#\">jane@yoursite.com</a>\n<strong>Phone:</strong> (123) 456-7890",
+                  "text_align": "center-text",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "image",
+                  "image_style": "thumbnail",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640",
+                  "class": "aligncenter"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe",
+                  "class": "mtn mbs",
+                  "text_align": "center-text",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Analyst",
+                  "text_align": "center-text",
+                  "level": "h6",
+                  "looks_like": "h6",
+                  "class": "mtn mbm",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Jane loves going on hikes, strolling along the beach, hot chocolate, and playing with her kids. Her favorite color is blue, and she enjoys orange juice.",
+                  "text_align": "center-text",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "<strong>Email:</strong> <a href=\"#\">jane@yoursite.com</a>\n<strong>Phone:</strong> (123) 456-7890",
+                  "text_align": "center-text",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

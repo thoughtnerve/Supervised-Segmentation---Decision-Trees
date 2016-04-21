@@ -1,0 +1,124 @@
+﻿{
+  "title": "content-block-5",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-5",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "3/5 + 2/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "3/5",
+              "elements": [
+                {
+                  "content": "So absolutely incredible",
+                  "level": "h4",
+                  "looks_like": "h4",
+                  "text_align": "none",
+                  "id": "",
+                  "class": "mts mbs",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "elements": [],
+                  "builder": "false"
+                },
+                {
+                  "_type": "text",
+                  "content": "Some very interesting text to talk more about something that is really wonderful. It's so great to keep going on and on about things like this because people really do care. Keep reading to see what else is so great.",
+                  "elements": []
+                },
+                {
+                  "elements": [
+                    {
+                      "title": "Block Grid Item 1",
+                      "content": "[button type=\"flat\" shape=\"rounded\" size=\"medium\" href=\"#\" block=\"true\" title=\"Download\"][icon type=\"download\"]Download Now[/button]",
+                      "id": "",
+                      "class": "",
+                      "style": "",
+                      "_type": "block-grid-item",
+                      "elements": [],
+                      "builder": "false"
+                    },
+                    {
+                      "title": "Block Grid Item 2",
+                      "content": "<a href=\"#\">Learn More</a>",
+                      "id": "",
+                      "class": "",
+                      "style": "padding-top: 10px;",
+                      "_type": "block-grid-item",
+                      "elements": [],
+                      "builder": "false"
+                    }
+                  ],
+                  "type": "two-up",
+                  "id": "",
+                  "class": "",
+                  "style": "",
+                  "_type": "block-grid",
+                  "builder": "false",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "2/5",
+              "_active": true,
+              "elements": [
+                {
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "poster": "",
+                  "aspect_ratio": "16:9",
+                  "preload": "none",
+                  "advanced_controls": "true",
+                  "id": "",
+                  "class": "",
+                  "style": "",
+                  "_type": "self-hosted-video",
+                  "elements": [],
+                  "builder": "false",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+﻿{
+  "title": "content-block-16",
+  "elements": [
+    {
+      "title": "content-block-16",
+      "elements": [
+        {
+          "title": "Row 1",
+          "marginlessColumns": false,
+          "elements": [
+            {
+              "size": "1/6",
+              "title": "1/6",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "2/3",
+              "title": "2/3",
+              "elements": [
+                {
+                  "content": "Forums",
+                  "level": "h2",
+                  "looks_like": "h2",
+                  "icon_type": "user-plus",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "style": "",
+                  "_type": "feature-headline",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "Give you members the freedom to connect with other members, host discussions around relevant topics, and foster a sense of community.",
+                  "text_align": "center-text",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/6",
+              "title": "1/6",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            }
+          ],
+          "inner_container": true,
+          "marginless_columns": false,
+          "bg_color": "",
+          "margin": [
+            "0px",
+            "auto",
+            "0px",
+            "auto",
+            "unlinked"
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ],
+          "border_style": "none",
+          "border_color": "",
+          "text_align": "none",
+          "visibility": [],
+          "class": "",
+          "style": "",
+          "_type": "row",
+          "_column_layout": "1/6 + 2/3 + 1/6",
+          "id": "",
+          "border_width": [
+            "1px",
+            "1px",
+            "1px",
+            "1px",
+            "linked"
+          ]
+        },
+        {
+          "title": "Row 2",
+          "marginlessColumns": false,
+          "elements": [
+            {
+              "size": "2/3",
+              "title": "2/3",
+              "elements": [
+                {
+                  "image_style": "thumbnail",
+                  "alt": "",
+                  "link": false,
+                  "href": "#",
+                  "href_title": "",
+                  "href_target": false,
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "class": "",
+                  "style": "",
+                  "_type": "image",
+                  "id": "",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640"
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/3",
+              "title": "1/3",
+              "elements": [
+                {
+                  "content": "<strong>Q&amp;A Forums</strong>\nHave members ask a question and allow any member to provide an answer or share their experiences.",
+                  "text_align": "none",
+                  "class": "mbl",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "<strong>Q&amp;A Forums</strong>\nHave members ask a question and allow any member to provide an answer or share their experiences.",
+                  "text_align": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "<strong>Q&amp;A Forums</strong>\nHave members ask a question and allow any member to provide an answer or share their experiences.",
+                  "text_align": "none",
+                  "class": "mbl",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            }
+          ],
+          "inner_container": true,
+          "marginless_columns": false,
+          "bg_color": "",
+          "margin": [
+            "0px",
+            "auto",
+            "0px",
+            "auto",
+            "unlinked"
+          ],
+          "padding": [
+            "25px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ],
+          "border_style": "none",
+          "border_color": "",
+          "text_align": "none",
+          "visibility": [],
+          "class": "",
+          "style": "",
+          "_type": "row",
+          "_column_layout": "2/3 + 1/3",
+          "id": "",
+          "border_width": [
+            "1px",
+            "1px",
+            "1px",
+            "1px",
+            "linked"
+          ]
+        }
+      ],
+      "bg_color": "",
+      "bg_image": "",
+      "bg_pattern_toggle": false,
+      "parallax": false,
+      "bg_video": "",
+      "bg_video_poster": "",
+      "margin": [
+        "0px",
+        "0px",
+        "0px",
+        "0px",
+        "unlinked"
+      ],
+      "padding": [
+        "85px",
+        "0px",
+        "65px",
+        "0px",
+        "unlinked"
+      ],
+      "border_style": "solid",
+      "border_color": "#e5e5e5",
+      "text_align": "none",
+      "visibility": [],
+      "class": "",
+      "style": "",
+      "_type": "section",
+      "id": "",
+      "border_width": [
+        "1px",
+        "0px",
+        "0px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

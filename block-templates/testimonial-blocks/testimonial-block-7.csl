@@ -1,0 +1,94 @@
+﻿{
+  "title": "testimonial-block-7",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "testimonial-block-7",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/6 + 2/3 + 1/6",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/6",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "2/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "text",
+                  "content": "\"This product is the most brilliant creation on the planet. What the engineering team has created is remarkable. And for the price they are changing, I can only see great things for the company. I expect a long and positive relationship for years to come.\"",
+                  "text_align": "center-text",
+                  "style": "font-size: 18px;",
+                  "elements": []
+                },
+                {
+                  "_type": "image",
+                  "image_style": "circle",
+                  "class": "aligncenter",
+                  "style": "max-width: 150px;",
+                  "elements": [],
+                  "src": "http://placehold.it/250x250"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe",
+                  "level": "h5",
+                  "looks_like": "h5",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "New York City",
+                  "level": "h6",
+                  "looks_like": "h6",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/6",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

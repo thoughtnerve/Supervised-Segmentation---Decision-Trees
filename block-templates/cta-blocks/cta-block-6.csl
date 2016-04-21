@@ -1,0 +1,140 @@
+﻿{
+  "title": "cta-block-6",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "cta-block-6",
+      "elements": [
+        {
+          "_type": "row",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Online Accounting Software",
+                  "class": "mtn mbs",
+                  "looks_like": "h2",
+                  "level": "h1",
+                  "elements": [],
+                  "text_align": "center-text"
+                },
+                {
+                  "_type": "text",
+                  "content": "Our easy-to-use software makes keeping track of your finances a breeze. Whether you have 1 employee or 100, our system scales.",
+                  "style": "font-size: 16px; color: #999999;",
+                  "elements": [],
+                  "text_align": "center-text"
+                },
+                {
+                  "_type": "button",
+                  "content": "Start Free Trial",
+                  "elements": []
+                }
+              ],
+              "text_align": "center-text"
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "_column_layout": "1/5 + 3/5 + 1/5"
+        },
+        {
+          "_type": "row",
+          "title": "New Item 3",
+          "_column_layout": "1/5 + 3/5 + 1/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "image",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640",
+                  "image_style": "thumbnail"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "25px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

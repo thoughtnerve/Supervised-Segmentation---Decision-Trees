@@ -1,0 +1,230 @@
+﻿{
+  "title": "testimonial-block-6",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "testimonial-block-6",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/1",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/1",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Testimonials",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "looks_like": "h2",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "What Our Clients Are Saying About Us",
+                  "text_align": "center-text",
+                  "looks_like": "h4",
+                  "level": "h3",
+                  "class": "mtn mbn",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "45px",
+            "0px",
+            "unlinked"
+          ]
+        },
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/3 + 1/3 + 1/3",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/3",
+              "elements": [
+                {
+                  "_type": "text",
+                  "content": "\"It was the most amazing experience I've ever had. I just couldn't believe how much fun I had at the event. I'm recommending it to everyone I know because it's truly a life changer.\"",
+                  "text_align": "center-text",
+                  "style": "font-size: 16px;",
+                  "elements": []
+                },
+                {
+                  "_type": "image",
+                  "image_style": "circle",
+                  "style": "max-width: 125px;",
+                  "class": "aligncenter",
+                  "elements": [],
+                  "src": "http://placehold.it/250x250"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe",
+                  "level": "h5",
+                  "looks_like": "h5",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Analyst, New York",
+                  "level": "h6",
+                  "looks_like": "h6",
+                  "text_align": "center-text",
+                  "class": "mtn mbl",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "text",
+                  "content": "\"It was the most amazing experience I've ever had. I just couldn't believe how much fun I had at the event. I'm recommending it to everyone I know because it's truly a life changer.\"",
+                  "text_align": "center-text",
+                  "style": "font-size: 16px;",
+                  "elements": []
+                },
+                {
+                  "_type": "image",
+                  "image_style": "circle",
+                  "style": "max-width: 125px;",
+                  "class": "aligncenter",
+                  "elements": [],
+                  "src": "http://placehold.it/250x250"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe",
+                  "level": "h5",
+                  "looks_like": "h5",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Analyst, New York",
+                  "level": "h6",
+                  "looks_like": "h6",
+                  "text_align": "center-text",
+                  "class": "mtn mbl",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "text",
+                  "content": "\"It was the most amazing experience I've ever had. I just couldn't believe how much fun I had at the event. I'm recommending it to everyone I know because it's truly a life changer.\"",
+                  "text_align": "center-text",
+                  "style": "font-size: 16px;",
+                  "elements": []
+                },
+                {
+                  "_type": "image",
+                  "image_style": "circle",
+                  "style": "max-width: 125px;",
+                  "class": "aligncenter",
+                  "elements": [],
+                  "src": "http://placehold.it/250x250"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe",
+                  "level": "h5",
+                  "looks_like": "h5",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Analyst, New York",
+                  "level": "h6",
+                  "looks_like": "h6",
+                  "text_align": "center-text",
+                  "class": "mtn mbl",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

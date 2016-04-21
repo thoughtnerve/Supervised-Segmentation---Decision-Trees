@@ -1,0 +1,180 @@
+﻿{
+  "title": "content-block-10",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-10",
+      "elements": [
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/1",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/1",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "So easy to start, you'll laugh",
+                  "class": "mtn mbs",
+                  "elements": [],
+                  "text_align": "center-text"
+                },
+                {
+                  "_type": "text",
+                  "elements": [],
+                  "content": "It's everything you want out of a great service, and so much more.",
+                  "text_align": "center-text"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "45px",
+            "0px",
+            "unlinked"
+          ]
+        },
+        {
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "elements": [
+            {
+              "_type": "column",
+              "size": "1/2",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "feature-list",
+                  "elements": [
+                    {
+                      "title": "Start business",
+                      "text": "This is an Feature List Item that is part of an Feature List. Notice the connector between the three graphics to show that they are related.",
+                      "graphic_shape": "hexagon",
+                      "graphic_icon": "diamond",
+                      "graphic_icon_color": "#3498db",
+                      "graphic_icon_bg_color": "#272727",
+                      "_type": "feature-list-item",
+                      "elements": [],
+                      "content": "This is the first step to success. Without a business you cannot succeed. So that is why it's the first step."
+                    },
+                    {
+                      "title": "TBD",
+                      "text": "This is an Feature List Item that is part of an Feature List. Notice the connector between the three graphics to show that they are related.",
+                      "graphic_shape": "hexagon",
+                      "graphic_icon": "diamond",
+                      "graphic_icon_color": "#3498db",
+                      "graphic_icon_bg_color": "#272727",
+                      "_type": "feature-list-item",
+                      "elements": [],
+                      "content": "This part has not be decided yet. Yes, it's the second step, but it's not that important, so we'll figure it out later."
+                    },
+                    {
+                      "_type": "feature-list-item",
+                      "title": "Profit",
+                      "elements": [],
+                      "content": "This is the part you've been waiting for. The money! Whoohoo. Here we go. ",
+                      "graphic_shape": "hexagon"
+                    }
+                  ],
+                  "graphic": "numbers",
+                  "connector_style": "solid",
+                  "connector_color": "#2ecc71",
+                  "connector_width": "10px"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/2",
+              "elements": [
+                {
+                  "_type": "gap",
+                  "gap_size": "45px",
+                  "elements": [],
+                  "visibility": [
+                    "x-hide-md",
+                    "x-hide-lg",
+                    "x-hide-xl"
+                  ]
+                },
+                {
+                  "_type": "self-hosted-video",
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "advanced_controls": true,
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

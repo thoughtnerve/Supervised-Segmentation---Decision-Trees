@@ -1,0 +1,102 @@
+﻿{
+  "title": "content-block-4",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-4",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "3/5 + 2/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "3/5",
+              "elements": [
+                {
+                  "content": "So absolutely incredible",
+                  "level": "h3",
+                  "text_align": "none",
+                  "id": "",
+                  "class": "mtn mbs",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "elements": [],
+                  "builder": "false"
+                },
+                {
+                  "_type": "text",
+                  "content": "Some very interesting text to talk more about something that is really wonderful. It's so great to keep going on and on about things like this because people really do care. Keep reading to see what else is so great.",
+                  "elements": []
+                },
+                {
+                  "_type": "block-grid",
+                  "elements": [
+                    {
+                      "title": "Block Grid Item 1",
+                      "_type": "block-grid-item",
+                      "content": "<h5 class=\"mtn\">Keep going</h5>Once you start, you just can't stop. And that's the true beauty of this product.",
+                      "elements": []
+                    },
+                    {
+                      "title": "Block Grid Item 2",
+                      "_type": "block-grid-item",
+                      "elements": [],
+                      "content": "<h5 class=\"mtn\">Don't stop</h5>Once you start, you just can't stop. And that's the true beauty of this product."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "2/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "image",
+                  "class": "aligncenter",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640",
+                  "image_style": "thumbnail"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

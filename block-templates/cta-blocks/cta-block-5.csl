@@ -1,0 +1,98 @@
+﻿{
+  "title": "cta-block-5",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "cta-block-5",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/2",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Accounting software for early stage startups",
+                  "class": "mtn mbs",
+                  "looks_like": "h2",
+                  "level": "h1",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Our easy-to-use software makes keeping track of your finances a breeze. Whether you have 1 employee or 100, our system scales as large as you need it to.",
+                  "style": "font-size: 18px;",
+                  "elements": []
+                },
+                {
+                  "_type": "button",
+                  "button_size": "regular",
+                  "content": "Try it for free",
+                  "elements": []
+                },
+                {
+                  "_type": "gap",
+                  "elements": [],
+                  "gap_size": "45px",
+                  "visibility": [
+                    "x-hide-xl",
+                    "x-hide-lg",
+                    "x-hide-md"
+                  ]
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/2",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "self-hosted-video",
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "advanced_controls": true,
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

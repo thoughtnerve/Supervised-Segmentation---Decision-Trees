@@ -1,0 +1,565 @@
+﻿{
+  "title": "content-block-17",
+  "elements": [
+    {
+      "title": "content-block-17",
+      "elements": [
+        {
+          "title": "Row 1",
+          "marginlessColumns": false,
+          "elements": [
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "elements": [
+                {
+                  "content": "Chapter 1",
+                  "level": "h2",
+                  "looks_like": "h1",
+                  "accent": false,
+                  "text_align": "center-text",
+                  "class": "mtn mbm",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            }
+          ],
+          "inner_container": true,
+          "marginless_columns": false,
+          "bg_color": "",
+          "margin": [
+            "0px",
+            "auto",
+            "0px",
+            "auto",
+            "unlinked"
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ],
+          "border_style": "none",
+          "border_color": "",
+          "text_align": "none",
+          "visibility": [],
+          "class": "",
+          "style": "",
+          "_type": "row",
+          "_column_layout": "1/1",
+          "id": "",
+          "border_width": [
+            "1px",
+            "1px",
+            "1px",
+            "1px",
+            "linked"
+          ]
+        },
+        {
+          "title": "Row 2",
+          "marginlessColumns": false,
+          "elements": [
+            {
+              "size": "1/2",
+              "title": "1/2",
+              "elements": [
+                {
+                  "content": "Why you should create an online course",
+                  "level": "h3",
+                  "looks_like": "h4",
+                  "accent": false,
+                  "text_align": "none",
+                  "class": "mtn mbm",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "In this chapter you will learn why it's so important to create an online course in the coming months.\n\nTechnology moves faster and faster each year, and each opportunity is available for less and less time. Online courses are one of these opportunities.",
+                  "text_align": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/2",
+              "title": "1/2",
+              "elements": [
+                {
+                  "content": "Included Lessons",
+                  "level": "h3",
+                  "looks_like": "h4",
+                  "accent": false,
+                  "text_align": "none",
+                  "class": "mtn mbm",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "<ol>\n\t<li><a href=\"#\">What is an online course</a></li>\n\t<li><a href=\"#\">Why online courses work so well for teaching</a></li>\n\t<li><a href=\"#\">The current opportunities for online courses</a></li>\n\t<li><a href=\"#\">The 3 types of online courses</a></li>\n\t<li><a href=\"#\">The dangers of waiting too long to create your course</a></li>\n</ol>",
+                  "text_align": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            }
+          ],
+          "inner_container": true,
+          "marginless_columns": false,
+          "bg_color": "",
+          "margin": [
+            "0px",
+            "auto",
+            "0px",
+            "auto",
+            "unlinked"
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ],
+          "border_style": "none",
+          "border_color": "",
+          "text_align": "none",
+          "visibility": [],
+          "class": "",
+          "style": "",
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "id": "",
+          "border_width": [
+            "1px",
+            "1px",
+            "1px",
+            "1px",
+            "linked"
+          ]
+        }
+      ],
+      "bg_type": "none",
+      "bg_color": "",
+      "bg_image": "",
+      "bg_pattern_toggle": false,
+      "parallax": false,
+      "bg_video": "",
+      "bg_video_poster": "",
+      "margin": [
+        "0px",
+        "0px",
+        "0px",
+        "0px",
+        "unlinked"
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ],
+      "border_style": "none",
+      "border_color": "",
+      "text_align": "none",
+      "visibility": [],
+      "class": "",
+      "style": "",
+      "_type": "section",
+      "id": "",
+      "border_width": [
+        "1px",
+        "1px",
+        "1px",
+        "1px",
+        "linked"
+      ]
+    }
+  ]
+}

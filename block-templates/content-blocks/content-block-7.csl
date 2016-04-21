@@ -1,0 +1,190 @@
+﻿{
+  "title": "content-block-7",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-7",
+      "elements": [
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "class": "mtn mbn",
+                  "content": "It's everything you've been waiting for, and so much much more!",
+                  "level": "h3",
+                  "elements": [],
+                  "text_align": "center-text"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "_column_layout": "1/5 + 3/5 + 1/5",
+          "padding": [
+            "0px",
+            "0px",
+            "45px",
+            "0px",
+            "unlinked"
+          ]
+        },
+        {
+          "_type": "row",
+          "title": "New Item 3",
+          "_column_layout": "1/2 + 1/2",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/2",
+              "elements": [
+                {
+                  "_type": "text",
+                  "content": "You thought we were done, guess again. We've got so much to show you yet. Keep going because we're not even close to finishing up yet. So let's grab hold, and keep going. Are you still here, that's great, let's go in for the really big deal and make your dream come true.",
+                  "elements": [],
+                  "text_align": "left-text"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/2",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "text",
+                  "content": "You thought we were done, guess again. We've got so much to show you yet. Keep going because we're not even close to finishing up yet. So let's grab hold, and keep going. Are you still here, that's great, let's go in for the really big deal and make your dream come true.",
+                  "elements": [],
+                  "text_align": "left-text"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "25px",
+            "0px",
+            "unlinked"
+          ]
+        },
+        {
+          "_type": "row",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "self-hosted-video",
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "advanced_controls": true,
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "_column_layout": "1/5 + 3/5 + 1/5"
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

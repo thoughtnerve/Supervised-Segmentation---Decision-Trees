@@ -1,0 +1,101 @@
+﻿{
+  "title": "contact-block-5",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "contact-block-5",
+      "elements": [
+        {
+          "_type": "row",
+          "title": "New Item 1",
+          "_column_layout": "1/3 + 2/3",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/3",
+              "elements": [
+                {
+                  "_type": "image",
+                  "image_style": "thumbnail",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640",
+                  "class": "aligncenter"
+                },
+                {
+                  "_type": "text",
+                  "content": "<strong>Phone:</strong> (123) 456-7890\n<strong>Email:</strong> me@yoursite.com\n<strong>Address:</strong> 123 Fake St, New York",
+                  "elements": [],
+                  "text_align": "center-text"
+                },
+                {
+                  "_type": "gap",
+                  "elements": [],
+                  "gap_size": "45px",
+                  "visibility": [
+                    "x-hide-xl",
+                    "x-hide-lg",
+                    "x-hide-md"
+                  ]
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "2/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Send me an email",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "If you have any questions about our services, or would like to get in touch with me, please complete the form below to send me an email.",
+                  "elements": []
+                },
+                {
+                  "_type": "contact-form-7",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+﻿{
+  "title": "cta-block-9",
+  "elements": [
+    {
+      "title": "cta-block-9",
+      "elements": [
+        {
+          "title": "Row 1",
+          "marginlessColumns": false,
+          "elements": [
+            {
+              "size": "1/2",
+              "title": "1/2",
+              "elements": [
+                {
+                  "content": "FREE Report About Something Awesome",
+                  "level": "h1",
+                  "looks_like": "h2",
+                  "accent": false,
+                  "text_align": "none",
+                  "class": "mtn mbn",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "<strong><em>A clear benefit that is incredible</em></strong>",
+                  "level": "h2",
+                  "looks_like": "h5",
+                  "accent": false,
+                  "text_align": "none",
+                  "class": "",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "elements": [
+                    {
+                      "title": "Quick details about the first benefit they get when joining your email list and downloading this LeadMagnet.",
+                      "type": "check",
+                      "class": "mbm",
+                      "style": "",
+                      "_type": "icon-list-item",
+                      "id": "",
+                      "elements": []
+                    },
+                    {
+                      "title": "Quick details about the second benefit they get when joining your email list and downloading this LeadMagnet.",
+                      "type": "check",
+                      "class": "mbm",
+                      "style": "",
+                      "_type": "icon-list-item",
+                      "id": "",
+                      "elements": []
+                    },
+                    {
+                      "title": "Quick details about the third benefit they get when joining your email list and downloading this LeadMagnet.",
+                      "type": "check",
+                      "class": "",
+                      "style": "",
+                      "_type": "icon-list-item",
+                      "id": "",
+                      "elements": []
+                    }
+                  ],
+                  "class": "mtl",
+                  "style": "",
+                  "_type": "icon-list",
+                  "id": ""
+                },
+                {
+                  "content": "Yes, I Want FREE Access Now!",
+                  "href": "#",
+                  "href_title": "",
+                  "href_target": false,
+                  "type": "global",
+                  "shape": "global",
+                  "button_size": "x-large",
+                  "block": true,
+                  "circle": false,
+                  "icon_toggle": false,
+                  "icon_placement": "before",
+                  "icon_type": "lightbulb-o",
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "style": "",
+                  "_type": "button",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "<p style=\"text-align: center; font-size: 12px;\"><em>[icon type=\"lock\"] [/icon] 100% Secure. We Never Share Your Email.</em></p>",
+                  "text_align": "none",
+                  "class": "mtm",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "fade_duration": "750",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/2",
+              "title": "1/2",
+              "elements": [
+                {
+                  "image_style": "thumbnail",
+                  "alt": "",
+                  "link": false,
+                  "href": "#",
+                  "href_title": "",
+                  "href_target": false,
+                  "info": "none",
+                  "info_place": "bottom",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "class": "aligncenter",
+                  "style": "",
+                  "_type": "image",
+                  "id": "",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640"
+                },
+                {
+                  "content": "<strong><em>A catchy phrase goes here...</em></strong>",
+                  "text_align": "center-text",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "fade_duration": "750",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "fade_duration": "750",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "fade_duration": "750",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "fade_duration": "750",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "fade_duration": "750",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            }
+          ],
+          "inner_container": true,
+          "marginless_columns": false,
+          "bg_color": "",
+          "margin": [
+            "0px",
+            "auto",
+            "0px",
+            "auto",
+            "unlinked"
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ],
+          "border_style": "none",
+          "border_color": "",
+          "text_align": "none",
+          "visibility": [],
+          "class": "",
+          "style": "",
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "id": "",
+          "border_width": [
+            "1px",
+            "1px",
+            "1px",
+            "1px",
+            "linked"
+          ]
+        }
+      ],
+      "bg_type": "none",
+      "bg_color": "",
+      "bg_image": "",
+      "bg_pattern_toggle": false,
+      "parallax": false,
+      "bg_video": "",
+      "bg_video_poster": "",
+      "margin": [
+        "0px",
+        "0px",
+        "0px",
+        "0px",
+        "unlinked"
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ],
+      "border_style": "none",
+      "border_color": "",
+      "text_align": "none",
+      "visibility": [],
+      "class": "",
+      "style": "",
+      "_type": "section",
+      "id": "",
+      "border_width": [
+        "1px",
+        "1px",
+        "1px",
+        "1px",
+        "linked"
+      ]
+    }
+  ]
+}

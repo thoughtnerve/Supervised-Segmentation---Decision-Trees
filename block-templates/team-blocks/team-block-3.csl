@@ -1,0 +1,132 @@
+﻿{
+  "title": "team-block-3",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "team-block-3",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/6 + 1/3 + 1/6 + 1/3",
+          "elements": [
+            {
+              "_type": "column",
+              "size": "1/6",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "image",
+                  "image_style": "circle",
+                  "elements": [],
+                  "src": "http://placehold.it/250x250",
+                  "class": "aligncenter"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/3",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe, Analyst",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Jane loves going on hikes, strolling along the beach, hot chocolate, and playing with her kids. Her favorite color is blue, and she enjoys orange juice.",
+                  "elements": []
+                },
+                {
+                  "_type": "button",
+                  "content": "| Email Jane",
+                  "href": "mailto:someone@example.com?Subject=Hello",
+                  "button_size": "small",
+                  "icon_toggle": true,
+                  "icon_type": "envelope",
+                  "elements": []
+                }
+              ],
+              "padding": [
+                "0px",
+                "0px",
+                "25px",
+                "0px",
+                "unlinked"
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/6",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "image",
+                  "image_style": "circle",
+                  "elements": [],
+                  "src": "http://placehold.it/250x250",
+                  "class": "aligncenter"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Jane Doe, Analyst",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Jane loves going on hikes, strolling along the beach, hot chocolate, and playing with her kids. Her favorite color is blue, and she enjoys orange juice.",
+                  "elements": []
+                },
+                {
+                  "_type": "button",
+                  "content": "| Email Jane",
+                  "href": "mailto:someone@example.com?Subject=Hello",
+                  "button_size": "small",
+                  "icon_toggle": true,
+                  "icon_type": "envelope",
+                  "elements": []
+                }
+              ],
+              "padding": [
+                "0px",
+                "0px",
+                "25px",
+                "0px",
+                "unlinked"
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

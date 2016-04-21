@@ -1,0 +1,397 @@
+﻿{
+  "title": "content-block-19",
+  "elements": [
+    {
+      "title": "content-block-19",
+      "elements": [
+        {
+          "title": "Row 2",
+          "marginlessColumns": false,
+          "elements": [
+            {
+              "size": "1/3",
+              "title": "1/3",
+              "elements": [
+                {
+                  "title": "<strong>Save hours each month</strong>",
+                  "title_color": "",
+                  "text_color": "",
+                  "graphic": "icon",
+                  "graphic_icon": "clock-o",
+                  "graphic_image": "",
+                  "graphic_size": "60px",
+                  "graphic_color": "#ffffff",
+                  "graphic_bg_color": "hsl(0, 100%, 50%)",
+                  "graphic_shape": "hexagon",
+                  "graphic_border_style": "none",
+                  "graphic_border_color": "",
+                  "graphic_border_width": [
+                    "2px",
+                    "2px",
+                    "2px",
+                    "2px",
+                    "linked"
+                  ],
+                  "graphic_animation": "none",
+                  "graphic_animation_offset": "50",
+                  "graphic_animation_delay": "0",
+                  "link_text": "",
+                  "href": "#",
+                  "href_title": "",
+                  "href_target": false,
+                  "link_color": "",
+                  "align_h": "center",
+                  "align_v": "top",
+                  "side_graphic_spacing": "20px",
+                  "max_width": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "feature-box",
+                  "id": "",
+                  "content": "Don't waste 3-4 hours each month manually calculating how many hours you worked on a project, just automate it with our app.",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/3",
+              "title": "1/3",
+              "elements": [
+                {
+                  "title": "Copy of <strong>Save hours each month</strong>",
+                  "title_color": "",
+                  "text_color": "",
+                  "graphic": "icon",
+                  "graphic_icon": "clock-o",
+                  "graphic_image": "",
+                  "graphic_size": "60px",
+                  "graphic_color": "#ffffff",
+                  "graphic_bg_color": "hsl(0, 100%, 50%)",
+                  "graphic_shape": "hexagon",
+                  "graphic_border_style": "none",
+                  "graphic_border_color": "",
+                  "graphic_border_width": [
+                    "2px",
+                    "2px",
+                    "2px",
+                    "2px",
+                    "linked"
+                  ],
+                  "graphic_animation": "none",
+                  "graphic_animation_offset": "50",
+                  "graphic_animation_delay": "0",
+                  "link_text": "",
+                  "href": "#",
+                  "href_title": "",
+                  "href_target": false,
+                  "link_color": "",
+                  "align_h": "center",
+                  "align_v": "top",
+                  "side_graphic_spacing": "20px",
+                  "max_width": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "feature-box",
+                  "id": "",
+                  "content": "Don't waste 3-4 hours each month manually calculating how many hours you worked on a project, just automate it with our app.",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/3",
+              "title": "1/3",
+              "elements": [
+                {
+                  "title": "Copy of <strong>Save hours each month</strong>",
+                  "title_color": "",
+                  "text_color": "",
+                  "graphic": "icon",
+                  "graphic_icon": "clock-o",
+                  "graphic_image": "",
+                  "graphic_size": "60px",
+                  "graphic_color": "#ffffff",
+                  "graphic_bg_color": "hsl(0, 100%, 50%)",
+                  "graphic_shape": "hexagon",
+                  "graphic_border_style": "none",
+                  "graphic_border_color": "",
+                  "graphic_border_width": [
+                    "2px",
+                    "2px",
+                    "2px",
+                    "2px",
+                    "linked"
+                  ],
+                  "graphic_animation": "none",
+                  "graphic_animation_offset": "50",
+                  "graphic_animation_delay": "0",
+                  "link_text": "",
+                  "href": "#",
+                  "href_title": "",
+                  "href_target": false,
+                  "link_color": "",
+                  "align_h": "center",
+                  "align_v": "top",
+                  "side_graphic_spacing": "20px",
+                  "max_width": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "feature-box",
+                  "id": "",
+                  "content": "Don't waste 3-4 hours each month manually calculating how many hours you worked on a project, just automate it with our app.",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            }
+          ],
+          "inner_container": true,
+          "marginless_columns": false,
+          "bg_color": "",
+          "margin": [
+            "0px",
+            "auto",
+            "0px",
+            "auto",
+            "unlinked"
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ],
+          "border_style": "none",
+          "border_color": "",
+          "text_align": "none",
+          "visibility": [],
+          "class": "",
+          "style": "",
+          "_type": "row",
+          "_column_layout": "1/3 + 1/3 + 1/3",
+          "id": "",
+          "border_width": [
+            "1px",
+            "1px",
+            "1px",
+            "1px",
+            "linked"
+          ]
+        }
+      ],
+      "bg_type": "none",
+      "bg_color": "",
+      "bg_image": "",
+      "bg_pattern_toggle": false,
+      "parallax": false,
+      "bg_video": "",
+      "bg_video_poster": "",
+      "margin": [
+        "0px",
+        "0px",
+        "0px",
+        "0px",
+        "unlinked"
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ],
+      "border_style": "none",
+      "border_color": "",
+      "text_align": "none",
+      "visibility": [],
+      "class": "",
+      "style": "",
+      "_type": "section",
+      "id": "",
+      "border_width": [
+        "1px",
+        "1px",
+        "1px",
+        "1px",
+        "linked"
+      ]
+    }
+  ]
+}

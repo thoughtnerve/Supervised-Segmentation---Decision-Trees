@@ -1,0 +1,77 @@
+﻿{
+  "title": "testimonial-block-5",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "testimonial-block-5",
+      "elements": [
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/5 + 1/5 + 2/5 + 1/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "image",
+                  "image_style": "circle",
+                  "elements": [],
+                  "src": "http://placehold.it/250x250",
+                  "class": "aligncenter"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "2/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "text",
+                  "elements": [],
+                  "content": "<em><strong>\"It was the most wonderful product I could have possibly imagined. My life is so much better now that I have this incredible tool. Thank you so much! I am telling everyone I know.\"</strong></em>\n\n~ Jane Doe, New York",
+                  "style": "font-size: 22px;"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ],
+      "bg_color": ""
+    }
+  ]
+}

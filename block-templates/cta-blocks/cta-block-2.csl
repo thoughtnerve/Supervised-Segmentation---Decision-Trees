@@ -1,0 +1,128 @@
+﻿{
+  "title": "cta-block-2",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "cta-block-2",
+      "elements": [
+        {
+          "_type": "row",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/1",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "The clock is ticking, now is the time",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "elements": [],
+                  "text_color": "hsl(0, 0%, 100%)"
+                },
+                {
+                  "_type": "text",
+                  "content": "Do this really cool amazing thing starting today!",
+                  "text_align": "center-text",
+                  "style": "color: #fff;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "_column_layout": "1/1"
+        },
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/3 + 1/3 + 1/3",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/3",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "button",
+                  "content": "Get Started",
+                  "block": true,
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "bg_type": "color",
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ],
+      "bg_color": "rgb(0, 168, 219)"
+    }
+  ]
+}

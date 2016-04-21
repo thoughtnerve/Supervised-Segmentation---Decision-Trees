@@ -1,0 +1,166 @@
+﻿{
+  "title": "testimonial-block-3",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "testimonial-block-3",
+      "elements": [
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/4 + 1/4 + 1/4 + 1/4",
+          "elements": [
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "elements": [
+                {
+                  "image_style": "circle",
+                  "alt": "",
+                  "href": "#",
+                  "href_title": "",
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "id": "",
+                  "class": "aligncenter",
+                  "style": "",
+                  "_type": "image",
+                  "elements": [],
+                  "builder": "false",
+                  "content": "",
+                  "src": "http://placehold.it/250x250"
+                },
+                {
+                  "_type": "text",
+                  "content": "\"It was the most wonderful product I could have possibly imagined. Thank you so much!\"\n\n<strong>~ Jane Doe, New York</strong>",
+                  "text_align": "center-text",
+                  "style": "font-size: 16px;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/4",
+              "elements": [
+                {
+                  "image_style": "circle",
+                  "alt": "",
+                  "href": "#",
+                  "href_title": "",
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "id": "",
+                  "class": "aligncenter",
+                  "style": "",
+                  "_type": "image",
+                  "elements": [],
+                  "builder": "false",
+                  "content": "",
+                  "src": "http://placehold.it/250x250"
+                },
+                {
+                  "_type": "text",
+                  "content": "\"It was the most wonderful product I could have possibly imagined. Thank you so much!\"\n\n<strong>~ Jane Doe, New York</strong>",
+                  "text_align": "center-text",
+                  "style": "font-size: 16px;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "elements": [
+                {
+                  "image_style": "circle",
+                  "alt": "",
+                  "href": "#",
+                  "href_title": "",
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "id": "",
+                  "class": "aligncenter",
+                  "style": "",
+                  "_type": "image",
+                  "elements": [],
+                  "builder": "false",
+                  "content": "",
+                  "src": "http://placehold.it/250x250"
+                },
+                {
+                  "_type": "text",
+                  "content": "\"It was the most wonderful product I could have possibly imagined. Thank you so much!\"\n\n<strong>~ Jane Doe, New York</strong>",
+                  "text_align": "center-text",
+                  "style": "font-size: 16px;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "elements": [
+                {
+                  "image_style": "circle",
+                  "alt": "",
+                  "href": "#",
+                  "href_title": "",
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "id": "",
+                  "class": "aligncenter",
+                  "style": "",
+                  "_type": "image",
+                  "elements": [],
+                  "builder": "false",
+                  "content": "",
+                  "src": "http://placehold.it/250x250"
+                },
+                {
+                  "_type": "text",
+                  "content": "\"It was the most wonderful product I could have possibly imagined. Thank you so much!\"\n\n<strong>~ Jane Doe, New York</strong>",
+                  "text_align": "center-text",
+                  "style": "font-size: 16px;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ],
+      "bg_color": ""
+    }
+  ]
+}

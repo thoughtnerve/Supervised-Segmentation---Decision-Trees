@@ -1,0 +1,88 @@
+﻿{
+  "title": "cta-block-3",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "cta-block-3",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "3/5 + 2/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "3/5",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "elements": [],
+                  "content": "There is no time like right now",
+                  "class": "mtn mbs",
+                  "level": "h5",
+                  "looks_like": "h5",
+                  "text_color": "hsl(0, 0%, 100%)"
+                },
+                {
+                  "_type": "custom-headline",
+                  "elements": [],
+                  "looks_like": "h2",
+                  "content": "Start your free trial today",
+                  "class": "mtn mbn",
+                  "text_color": "hsl(0, 0%, 100%)"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "2/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "button",
+                  "content": "Free Trial",
+                  "block": true,
+                  "elements": [],
+                  "class": "mts"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "bg_type": "color",
+      "bg_color": "rgb(0, 168, 219)",
+      "padding": [
+        "65px",
+        "0px",
+        "65px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

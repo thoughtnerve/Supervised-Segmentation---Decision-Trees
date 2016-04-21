@@ -1,0 +1,171 @@
+﻿{
+  "title": "content-block-3",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-3",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/5 + 3/5 + 1/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "The ultimate tracking tool",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "looks_like": "h2",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "level": "h3",
+                  "looks_like": "h5",
+                  "content": "Take your business to the next level",
+                  "text_align": "center-text",
+                  "class": "mtn mbn",
+                  "style": "color: #a9b0b1;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "65px",
+            "0px",
+            "unlinked"
+          ]
+        },
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/2 + 1/2",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/2",
+              "elements": [
+                {
+                  "_type": "feature-box",
+                  "title": "Benefit 1",
+                  "content": "Do everything from the comfort of your own phone, tablet, or laptop. Access anywhere with a wifi or data connection. Great signal means great business for you.",
+                  "align_h": "left",
+                  "graphic_icon": "wifi",
+                  "graphic_shape": "circle",
+                  "graphic_bg_color": "#1e73be",
+                  "elements": []
+                },
+                {
+                  "_type": "feature-box",
+                  "title": "Benefit 2",
+                  "content": "Do everything from the comfort of your own phone, tablet, or laptop. Access anywhere with a wifi or data connection. Great signal means great business for you.",
+                  "align_h": "left",
+                  "graphic_icon": "wrench",
+                  "graphic_shape": "circle",
+                  "graphic_bg_color": "#1e73be",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/2",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "feature-box",
+                  "title": "Benefit 3",
+                  "content": "Do everything from the comfort of your own phone, tablet, or laptop. Access anywhere with a wifi or data connection. Great signal means great business for you.",
+                  "align_h": "left",
+                  "graphic_icon": "trophy",
+                  "graphic_shape": "circle",
+                  "graphic_bg_color": "#1e73be",
+                  "elements": []
+                },
+                {
+                  "_type": "feature-box",
+                  "title": "Benefit 4",
+                  "content": "Do everything from the comfort of your own phone, tablet, or laptop. Access anywhere with a wifi or data connection. Great signal means great business for you.",
+                  "align_h": "left",
+                  "graphic_icon": "thumbs-up",
+                  "graphic_shape": "circle",
+                  "graphic_bg_color": "#1e73be",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

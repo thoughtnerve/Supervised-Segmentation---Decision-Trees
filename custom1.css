@@ -1,0 +1,124 @@
+/*
+
+    Name:       Base16 Twilight Dark
+    Author:     David Hart (http://hart-dev.com)
+
+    CodeMirror template adapted for IPython Notebook by Nikhil Sonnad (https://github.com/nsonnad/base16-ipython-notebook)
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-chrome-devtools)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+ Uncomment to use a custom font
+div#notebook, div.CodeMirror, div.output_area pre, div.output_wrapper, div.prompt {
+  font-family: 'Lato', 'Fira Mono', monospace !important;
+
+}
+
+.text_cell_render h1, h2, h3, h4, h5, h6 {
+  font-family:  freight-sans-pro,'Lato', 'Helvetica Neue';
+  font-weight: bold !important;
+  color: rgba(0,0,0,.8) !important;
+}
+
+#notebook-container {
+    padding: 0;
+    background-color: #fff;
+    min-height: 0 !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.prompt {
+  display: none;
+  min-width: 0;
+}
+
+.CodeMirror-code {
+  font-family: 'Source Code Pro','Lato', 'Fira Mono', monospace !important;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+div.output_subarea {
+
+    
+    max-width: 100% !important; 
+
+
+
+}
+
+div.output_area pre {
+  font-family:  "Source Sans Pro" ,verdana,arial,sans-serif !important;
+  
+      font-weight: 500;
+    font-size: 16px;
+    color: #434343;
+    line-height: 21px;
+}
+
+
+.rendered_html td, .rendered_html th {
+    text-align: left;
+    vertical-align: middle;
+    padding: 4px;
+}
+.rendered_html tr, .rendered_html th, .rendered_html td {
+    border: 1px solid #D7D7D7;
+    border-collapse: collapse;
+    margin: 1em 2em;
+}
+
+td {
+    
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #434343;
+    /*font-family: "PT Sans Narrow", "Lato" ,verdana,arial,sans-serif; */
+      font-family:  "Source Sans Pro" ,verdana,arial,sans-serif;
+}
+
+ .rendered_html th {    
+    font-size: 18px;
+    font-weight: 600;
+    /*font-family: "PT Sans Narrow", "Lato" ,verdana,arial,sans-serif; */
+      font-family:  "Source Sans Pro" ,verdana,arial,sans-serif;
+}
+
+/*
+
+.rendered_html td, .rendered_html th, .rendered_html tr {
+    border: 1px solid #D7D7D7;
+    color: #434343;
+    white-space: pre-wrap;
+}
+
+
+
+ .rendered_html th {    
+    background-color: #2980b9;   
+    color: white; 
+}
+*/
+
+.inner_cell p {
+  font-family:  freight-sans-pro,'Lato', 'Helvetica Neue';
+  font-size : 18px;
+  line-height: 32px;
+  color: rgba(0,0,0,.8);
+
+}
+
+p {
+  font-family: Arial, 'Freight Sans Pro', 'Lato', 'Helvetica Neue'
+  color: #636363;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, 'Freight Sans Pro', 'Lato', 'Helvetica Neue'
+    /* font-family: 'freight-sans-pro', 'Helvetica Neue',  Arial !important; */
+    color: #636363;
+}

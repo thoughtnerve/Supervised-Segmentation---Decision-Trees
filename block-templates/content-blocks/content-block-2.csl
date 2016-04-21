@@ -1,0 +1,165 @@
+﻿{
+  "title": "content-block-2",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-2",
+      "elements": [
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "class": "mtn mbs",
+                  "content": "It's everything you've been waiting for, and so much much more!",
+                  "level": "h3",
+                  "elements": [],
+                  "text_align": "center-text"
+                },
+                {
+                  "_type": "text",
+                  "content": "You thought we were done, guess again. We've got so much to show you yet. Keep going because we're not even close to finishing up yet. So let's grab hold, and keep going.",
+                  "elements": [],
+                  "text_align": "center-text"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "25px",
+            "0px",
+            "unlinked"
+          ],
+          "_column_layout": "1/5 + 3/5 + 1/5"
+        },
+        {
+          "_type": "row",
+          "_column_layout": "3/5 + 2/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "3/5",
+              "elements": [
+                {
+                  "_type": "feature-box",
+                  "graphic_bg_color": "#000000",
+                  "align_h": "left",
+                  "graphic": "image",
+                  "graphic_size": "150px",
+                  "title": "So good, you won't believe it",
+                  "content": "Yep, it's just that good. After you try it just once, you'll be hooked forever. Don't say we didn't warn you.",
+                  "elements": [],
+                  "graphic_image": "http://placehold.it/960x640"
+                },
+                {
+                  "_type": "gap",
+                  "gap_size": "45px",
+                  "elements": []
+                },
+                {
+                  "_type": "feature-box",
+                  "graphic_bg_color": "#000000",
+                  "align_h": "left",
+                  "graphic": "image",
+                  "graphic_size": "150px",
+                  "title": "Once it hits the lips, it's so good",
+                  "content": "Yep, it's just that good. After you try it just once, you'll be hooked forever. Don't say we didn't warn you.",
+                  "elements": [],
+                  "graphic_image": "http://placehold.it/960x640"
+                },
+                {
+                  "_type": "gap",
+                  "gap_size": "45px",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "2/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "self-hosted-video",
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "advanced_controls": true,
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

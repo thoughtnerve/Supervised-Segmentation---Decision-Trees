@@ -1,0 +1,99 @@
+﻿{
+  "title": "content-block-15",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-15",
+      "elements": [
+        {
+          "_type": "row",
+          "title": "New Item 3",
+          "_column_layout": "1/5 + 3/5 + 1/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Frequently Asked Questions",
+                  "text_align": "center-text",
+                  "class": "mtn mbm",
+                  "looks_like": "h2",
+                  "elements": []
+                },
+                {
+                  "_type": "accordion",
+                  "elements": [
+                    {
+                      "title": "What time is it?",
+                      "content": "What time do you think it is? It's the same time that your phone or watch is displaying right now. Go take a look.",
+                      "_type": "accordion-item",
+                      "elements": []
+                    },
+                    {
+                      "title": "What's included in my purchase?",
+                      "content": "Everything that we just talked about. Review the site again if you forget, because it's all typed right there. Just kidding. It's all here. Everything that you wanted for your project is included.",
+                      "_type": "accordion-item",
+                      "elements": []
+                    },
+                    {
+                      "_type": "accordion-item",
+                      "title": "What's your refund policy?",
+                      "elements": [],
+                      "content": "We offer a 30-day no questions asked refund policy. If you're not happy with your purchase, then we're not happy. Email us and if we can't make you happy, we'll issue a refund to your credit card right away."
+                    },
+                    {
+                      "_type": "accordion-item",
+                      "title": "How do I pay?",
+                      "elements": [],
+                      "content": "You can pay for your purchase online with your credit card, debit card, or Bitcoin. We do not accept checks or gold."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

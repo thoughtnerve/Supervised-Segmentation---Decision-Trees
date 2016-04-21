@@ -1,0 +1,369 @@
+﻿{
+  "title": "contact-block-6",
+  "elements": [
+    {
+      "title": "contact-block-6",
+      "elements": [
+        {
+          "title": "Row 2",
+          "marginlessColumns": false,
+          "elements": [
+            {
+              "size": "1/2",
+              "title": "1/2",
+              "elements": [
+                {
+                  "content": "Why Choose Us",
+                  "level": "h2",
+                  "looks_like": "h4",
+                  "accent": false,
+                  "text_align": "left-text",
+                  "class": "mtn mbm",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "We’re living in an age where art, design, and technology merge together to create something incredible. Never before have humans been able to produce beauty of this magnitude in such little time.\n\nFor the first time ever, we’ve decided to open up our studio so that you can enjoy our masterpieces in your home or office.\n\nEvery work you see on this site is 100% original and one-of-a-kind. There are no duplicates here.",
+                  "text_align": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "Our Location",
+                  "level": "h2",
+                  "looks_like": "h4",
+                  "accent": false,
+                  "text_align": "left-text",
+                  "class": "mtn mbm",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "123 N Fake St., New York City, NY",
+                  "text_align": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "elements": [
+                    {
+                      "title": "Map Marker 1",
+                      "lat": "40.7056308",
+                      "lng": "-73.9780035",
+                      "info": "",
+                      "image": "",
+                      "_type": "google-map-marker",
+                      "elements": []
+                    }
+                  ],
+                  "lat": "40.7056308",
+                  "lng": "-73.9780035",
+                  "zoom": "12",
+                  "zoom_control": false,
+                  "drag": false,
+                  "height": "",
+                  "hue": false,
+                  "no_container": false,
+                  "class": "",
+                  "style": "",
+                  "_type": "google-map",
+                  "id": ""
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/2",
+              "title": "1/2",
+              "elements": [
+                {
+                  "content": "Contact Us",
+                  "level": "h2",
+                  "looks_like": "h4",
+                  "accent": false,
+                  "text_align": "left-text",
+                  "class": "mtn mbm",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "If you would like to schedule a time to visit our studio, please complete the contact form below.",
+                  "text_align": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "_type": "contact-form-7",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            }
+          ],
+          "inner_container": true,
+          "marginless_columns": false,
+          "bg_color": "",
+          "margin": [
+            "0px",
+            "auto",
+            "0px",
+            "auto",
+            "unlinked"
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ],
+          "border_style": "none",
+          "border_color": "",
+          "text_align": "none",
+          "visibility": [],
+          "class": "",
+          "style": "",
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "id": "",
+          "border_width": [
+            "1px",
+            "1px",
+            "1px",
+            "1px",
+            "linked"
+          ]
+        }
+      ],
+      "bg_image": "",
+      "bg_pattern_toggle": false,
+      "parallax": false,
+      "bg_video": "",
+      "bg_video_poster": "",
+      "margin": [
+        "0px",
+        "0px",
+        "0px",
+        "0px",
+        "unlinked"
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ],
+      "border_style": "none",
+      "border_color": "#e5e5e5",
+      "text_align": "none",
+      "visibility": [],
+      "class": "",
+      "style": "",
+      "_type": "section",
+      "id": "",
+      "border_width": [
+        "0px",
+        "0px",
+        "0px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

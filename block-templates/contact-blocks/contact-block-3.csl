@@ -1,0 +1,171 @@
+﻿{
+  "title": "contact-block-3",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "contact-block-3",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/1",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/1",
+              "elements": [
+                {
+                  "_type": "google-map",
+                  "zoom_control": true,
+                  "drag": true,
+                  "no_container": true,
+                  "height": "350px",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "inner_container": false
+        },
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/3 + 1/3 + 1/3",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/3",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "New York Office",
+                  "looks_like": "h5",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "(123) 456-7890\n55 N. Fake Avenue, New York\nny@yoursite.com",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "New Jersey Office",
+                  "looks_like": "h5",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "(123) 456-7890\n33 S. Random St, New Jersey\nnj@yoursite.com",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Help",
+                  "looks_like": "h5",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Need help with something? Support with a product your purchased, sales questions, etc? Just shoot us a quick email at help@yoursite.com and we'll respond fast.\n\nAlso, don't forget to check out our <a href=\"#\">help & support center</a>, as well as our <a href=\"#\">FAQ section</a>.",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Media Inquiries",
+                  "looks_like": "h5",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Looking for more information regarding our company for an article, news story, etc? Please contact Kim at media@yoursite.com for one of our press kits.",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "45px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ]
+        }
+      ],
+      "padding": [
+        "0px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

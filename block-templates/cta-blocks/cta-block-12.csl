@@ -1,0 +1,100 @@
+﻿{
+  "title": "cta-block-12",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "cta-block-12",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/2",
+              "elements": [
+                {
+                  "_type": "image",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640",
+                  "class": "aligncenter",
+                  "image_style": "thumbnail"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/2",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "class": "mtn mbn",
+                  "content": "$99",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "class": "mts mbs",
+                  "content": "<strike>$199</strike>",
+                  "elements": [],
+                  "level": "h3",
+                  "looks_like": "h5"
+                },
+                {
+                  "_type": "custom-headline",
+                  "class": "mtn mbs",
+                  "content": "Brand New Laptop",
+                  "elements": [],
+                  "level": "h3"
+                },
+                {
+                  "_type": "text",
+                  "content": "This is the most amazing laptop you've ever seen. Yes, it's made out of metal, unbelievable, right? Yah, they make computers out of metal, all one piece too. Anyway, it's sturdy and you can drop it without breaking it. ",
+                  "elements": []
+                },
+                {
+                  "_type": "button",
+                  "content": "Buy Now",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

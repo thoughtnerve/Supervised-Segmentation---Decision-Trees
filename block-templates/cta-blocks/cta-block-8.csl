@@ -1,0 +1,138 @@
+﻿{
+  "title": "cta-block-8",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "cta-block-8",
+      "elements": [
+        {
+          "_type": "row",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/1",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "CONTINUE TO THE NEXT LESSON",
+                  "text_align": "center-text",
+                  "class": "mtn mbn",
+                  "elements": [],
+                  "looks_like": "h2",
+                  "text_color": "hsl(0, 0%, 100%)"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "25px",
+            "0px",
+            "unlinked"
+          ],
+          "_column_layout": "1/1"
+        },
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/6 + 1/3 + 1/3 + 1/6",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/6",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "button",
+                  "content": "Chapter Overview",
+                  "block": true,
+                  "elements": [],
+                  "class": "mtm"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "button",
+                  "content": "Next Lesson",
+                  "block": true,
+                  "elements": [],
+                  "class": "mtm"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/6",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "bg_type": "color",
+      "padding": [
+        "85px",
+        "0px",
+        "65px",
+        "0px",
+        "unlinked"
+      ],
+      "bg_color": "rgb(0, 168, 219)"
+    }
+  ]
+}

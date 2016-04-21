@@ -1,0 +1,82 @@
+﻿{
+  "title": "team-block-2",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "team-block-2",
+      "elements": [
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/3 + 1/3 + 1/3",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/3",
+              "elements": [
+                {
+                  "_type": "promo",
+                  "image": "http://placehold.it/960x640",
+                  "content": "[x_custom_headline type=\"center\" level=\"h2\" looks_like=\"h3\" class=\"mtn mbs\"]Jane Doe[/x_custom_headline]\n[x_custom_headline type=\"center\" level=\"h6\" looks_like=\"h6\" class=\"mtn mbm\"]Analyst[/x_custom_headline]\n<p style=\"text-align: center;\">\nJane loves going on hikes, strolling along the beach, hot chocolate, and playing with her kids. Her favorite color is blue, and she enjoys orange juice.</p>\n[x_button shape=\"rounded\" size=\"regular\" float=\"none\" block=\"true\" href=\"mailto:someone@example.com?Subject=Hello\" target=\"_top\" info=\"none\" info_place=\"top\" info_trigger=\"hover\"][icon type=\"envelope\"] [/icon]Email Jane[/x_button]",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "promo",
+                  "image": "http://placehold.it/960x640",
+                  "content": "[x_custom_headline type=\"center\" level=\"h2\" looks_like=\"h3\" class=\"mtn mbs\"]Jane Doe[/x_custom_headline]\n[x_custom_headline type=\"center\" level=\"h6\" looks_like=\"h6\" class=\"mtn mbm\"]Analyst[/x_custom_headline]\n<p style=\"text-align: center;\">\nJane loves going on hikes, strolling along the beach, hot chocolate, and playing with her kids. Her favorite color is blue, and she enjoys orange juice.</p>\n[x_button shape=\"rounded\" size=\"regular\" float=\"none\" block=\"true\" href=\"mailto:someone@example.com?Subject=Hello\" target=\"_top\" info=\"none\" info_place=\"top\" info_trigger=\"hover\"][icon type=\"envelope\"] [/icon]Email Jane[/x_button]",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "promo",
+                  "image": "http://placehold.it/960x640",
+                  "content": "[x_custom_headline type=\"center\" level=\"h2\" looks_like=\"h3\" class=\"mtn mbs\"]Jane Doe[/x_custom_headline]\n[x_custom_headline type=\"center\" level=\"h6\" looks_like=\"h6\" class=\"mtn mbm\"]Analyst[/x_custom_headline]\n<p style=\"text-align: center;\">\nJane loves going on hikes, strolling along the beach, hot chocolate, and playing with her kids. Her favorite color is blue, and she enjoys orange juice.</p>\n[x_button shape=\"rounded\" size=\"regular\" float=\"none\" block=\"true\" href=\"mailto:someone@example.com?Subject=Hello\" target=\"_top\" info=\"none\" info_place=\"top\" info_trigger=\"hover\"][icon type=\"envelope\"] [/icon]Email Jane[/x_button]",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

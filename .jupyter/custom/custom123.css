@@ -1,0 +1,44 @@
+/*
+
+    Name:       Base16 Twilight Dark
+    Author:     David Hart (http://hart-dev.com)
+
+    CodeMirror template adapted for IPython Notebook by Nikhil Sonnad (https://github.com/nsonnad/base16-ipython-notebook)
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-chrome-devtools)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+ Uncomment to use a custom font
+div#notebook, div.CodeMirror, div.output_area pre, div.output_wrapper, div.prompt {
+  font-family: 'Fira Mono', 'Source Code Pro', monospace !important;
+  font-size: 12px;
+  line-height: 24px;
+}
+
+.text_cell_render h1, h2, h3, h4, h5, h6 {
+  font-family:  freight-sans-pro,'Lato', 'Helvetica Neue';
+  font-weight: bold !important;
+  color: rgba(0,0,0,.8) !important;
+}
+
+
+.inner_cell p {
+  font-family:  freight-sans-pro,'Lato', 'Helvetica Neue';
+  font-size : 18px;
+  line-height: 32px;
+  color: rgba(0,0,0,.8);
+
+}
+
+p {
+  font-family: Arial, 'Freight Sans Pro', 'Lato', 'Helvetica Neue'
+  color: #636363;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, 'Freight Sans Pro', 'Lato', 'Helvetica Neue'
+    /* font-family: 'freight-sans-pro', 'Helvetica Neue',  Arial !important; */
+    color: #636363;
+}

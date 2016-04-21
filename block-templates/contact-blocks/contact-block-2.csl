@@ -1,0 +1,122 @@
+﻿{
+  "title": "contact-block-2",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "contact-block-2",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "elements": [
+            {
+              "_type": "column",
+              "size": "1/2",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Where to find us",
+                  "text_align": "left-text",
+                  "elements": [],
+                  "class": "mtn mbm",
+                  "level": "h4",
+                  "looks_like": "h4"
+                },
+                {
+                  "_type": "text",
+                  "content": "55 N. Fake Avenue, New York",
+                  "elements": []
+                },
+                {
+                  "_type": "google-map",
+                  "elements": [],
+                  "no_container": true,
+                  "hue": "",
+                  "zoom_control": true,
+                  "drag": true
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Get in touch",
+                  "text_align": "left-text",
+                  "elements": [],
+                  "class": "mtm mbm",
+                  "level": "h4",
+                  "looks_like": "h4"
+                },
+                {
+                  "_type": "text",
+                  "content": "<strong>Phone:</strong> (123) 456-7890\n<strong>Email:</strong> info@yourwebsite.com\n",
+                  "text_align": "left-text",
+                  "elements": []
+                },
+                {
+                  "_type": "gap",
+                  "elements": [],
+                  "gap_size": "25px",
+                  "visibility": [
+                    "x-hide-xl",
+                    "x-hide-lg",
+                    "x-hide-md"
+                  ]
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/2",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Send us an email",
+                  "text_align": "left-text",
+                  "elements": [],
+                  "class": "mtn mbm",
+                  "level": "h4",
+                  "looks_like": "h4"
+                },
+                {
+                  "_type": "contact-form-7",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

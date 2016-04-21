@@ -1,0 +1,193 @@
+﻿{
+  "title": "content-block-20",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-20",
+      "elements": [
+        {
+          "_type": "row",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/1",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Unforgettable Results",
+                  "text_align": "center-text",
+                  "class": "mtn mbn",
+                  "elements": [],
+                  "text_color": "hsl(0, 0%, 100%)"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "45px",
+            "0px",
+            "unlinked"
+          ],
+          "_column_layout": "1/1"
+        },
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/4 + 1/4 + 1/4 + 1/4",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/4",
+              "text_align": "center-text",
+              "elements": [
+                {
+                  "_type": "icon",
+                  "type": "automobile",
+                  "elements": [],
+                  "icon_color": "hsl(0, 0%, 100%)",
+                  "icon_size": "75px"
+                },
+                {
+                  "_type": "counter",
+                  "num_end": "2500",
+                  "text_above": "",
+                  "text_below": "Cars Sold",
+                  "text_color": "#ffffff",
+                  "num_color": "rgb(12, 69, 117)",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "text_align": "center-text",
+              "elements": [
+                {
+                  "_type": "icon",
+                  "type": "beer",
+                  "elements": [],
+                  "icon_size": "75px",
+                  "icon_color": "hsl(0, 0%, 100%)"
+                },
+                {
+                  "_type": "counter",
+                  "num_end": "82300",
+                  "text_above": "",
+                  "text_below": "Beers Drunk",
+                  "text_color": "#ffffff",
+                  "num_color": "rgb(12, 69, 117)",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "text_align": "center-text",
+              "elements": [
+                {
+                  "_type": "icon",
+                  "type": "bus",
+                  "elements": [],
+                  "icon_color": "hsl(0, 0%, 100%)",
+                  "icon_size": "75px"
+                },
+                {
+                  "_type": "counter",
+                  "num_end": "790",
+                  "text_above": "",
+                  "text_below": "Buses Rented",
+                  "text_color": "#ffffff",
+                  "num_color": "rgb(12, 69, 117)",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "text_align": "center-text",
+              "elements": [
+                {
+                  "_type": "icon",
+                  "type": "birthday-cake",
+                  "elements": [],
+                  "icon_color": "hsl(0, 0%, 100%)",
+                  "icon_size": "75px"
+                },
+                {
+                  "_type": "counter",
+                  "num_end": "420",
+                  "text_above": "",
+                  "text_below": "Parties Celebrated",
+                  "text_color": "#ffffff",
+                  "num_color": "rgb(12, 69, 117)",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "65px",
+        "0px",
+        "unlinked"
+      ],
+      "bg_type": "color",
+      "bg_color": "rgb(0, 168, 219)"
+    }
+  ]
+}

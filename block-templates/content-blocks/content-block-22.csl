@@ -1,0 +1,276 @@
+﻿{
+  "title": "content-block-22",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-22",
+      "elements": [
+        {
+          "_type": "row",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/1",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "The Best Features Available Today",
+                  "text_align": "center-text",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "We believe in quality and speed, and that's why we're the best",
+                  "text_align": "center-text",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "25px",
+            "0px",
+            "unlinked"
+          ],
+          "_column_layout": "1/1"
+        },
+        {
+          "_type": "row",
+          "title": "New Item 2",
+          "_column_layout": "1/4 + 1/4 + 1/4 + 1/4",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/4",
+              "text_align": "center-text",
+              "border_style": "solid",
+              "border_width": [
+                "2px",
+                "2px",
+                "2px",
+                "2px",
+                "linked"
+              ],
+              "border_color": "#1e73be",
+              "elements": [
+                {
+                  "_type": "icon",
+                  "type": "comments",
+                  "elements": [],
+                  "icon_size": "75px",
+                  "icon_color": "#1e73be"
+                },
+                {
+                  "_type": "line",
+                  "class": "mtn mbn",
+                  "style": "border-color: #1e73be;",
+                  "elements": [],
+                  "line_height": "2px"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Live Chat",
+                  "looks_like": "h4",
+                  "class": "mtm mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Our team is available for you 24/7 online.",
+                  "elements": []
+                }
+              ],
+              "class": "mbl"
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "border_style": "solid",
+              "border_color": "#1e73be",
+              "border_width": [
+                "2px",
+                "2px",
+                "2px",
+                "2px",
+                "linked"
+              ],
+              "text_align": "center-text",
+              "elements": [
+                {
+                  "_type": "icon",
+                  "type": "comments",
+                  "elements": [],
+                  "icon_size": "75px",
+                  "icon_color": "#1e73be"
+                },
+                {
+                  "_type": "line",
+                  "class": "mtn mbn",
+                  "style": "border-color: #1e73be;",
+                  "elements": [],
+                  "line_height": "2px"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Live Chat",
+                  "looks_like": "h4",
+                  "class": "mtm mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Our team is available for you 24/7 online.",
+                  "elements": []
+                }
+              ],
+              "class": "mbl"
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "border_style": "solid",
+              "border_color": "#1e73be",
+              "border_width": [
+                "2px",
+                "2px",
+                "2px",
+                "2px",
+                "linked"
+              ],
+              "text_align": "center-text",
+              "elements": [
+                {
+                  "_type": "icon",
+                  "type": "comments",
+                  "elements": [],
+                  "icon_size": "75px",
+                  "icon_color": "#1e73be"
+                },
+                {
+                  "_type": "line",
+                  "class": "mtn mbn",
+                  "style": "border-color: #1e73be;",
+                  "elements": [],
+                  "line_height": "2px"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Live Chat",
+                  "looks_like": "h4",
+                  "class": "mtm mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Our team is available for you 24/7 online.",
+                  "elements": []
+                }
+              ],
+              "class": "mbl"
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": true,
+              "border_style": "solid",
+              "border_color": "#1e73be",
+              "border_width": [
+                "2px",
+                "2px",
+                "2px",
+                "2px",
+                "linked"
+              ],
+              "text_align": "center-text",
+              "elements": [
+                {
+                  "_type": "icon",
+                  "type": "comments",
+                  "elements": [],
+                  "icon_color": "#1e73be",
+                  "icon_size": "75px"
+                },
+                {
+                  "_type": "line",
+                  "class": "mtn mbn",
+                  "style": "border-color: #1e73be;",
+                  "elements": [],
+                  "line_height": "2px"
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Live Chat",
+                  "looks_like": "h4",
+                  "class": "mtm mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Our team is available for you 24/7 online.",
+                  "elements": []
+                }
+              ],
+              "class": "mbl"
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+﻿{
+  "title": "content-block-6",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-6",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/5 + 3/5 + 1/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "text_align": "center-text",
+              "elements": [
+                {
+                  "_type": "self-hosted-video",
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "advanced_controls": true,
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "class": "mtm mbs",
+                  "content": "Revolutionary!",
+                  "text_align": "center-text",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "The smartest way to get the job done right. Rain or shine, we're here to make your dreams come true. Holidays too. We're the only solution that never stops working for you.",
+                  "text_align": "center-text",
+                  "elements": []
+                },
+                {
+                  "_type": "button",
+                  "content": "Try it out today",
+                  "button_size": "regular",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

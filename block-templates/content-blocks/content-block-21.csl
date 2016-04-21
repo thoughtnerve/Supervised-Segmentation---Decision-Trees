@@ -1,0 +1,102 @@
+﻿{
+  "title": "content-block-21",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-21",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/2",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Incredible Features For You",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "Just when you thought you knew everything there was to know about this product, here are a few more features to check out. Yes, it's worth taking a look because these are some really neat features.\n<ol>\n\t<li>So much power</li>\n\t<li>Wonderfully engineered</li>\n\t<li>Smooth to the touch</li>\n\t<li>Lighter than air</li>\n</ol>\nWhat are you waiting for, let's take it out for a spin. It'll do you and your business good.",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/2",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "block-grid",
+                  "elements": [
+                    {
+                      "title": "Block Grid Item 1",
+                      "_type": "block-grid-item",
+                      "content": "[x_image type=\"none\" float=\"none\" src=\"http://placehold.it/960x640\" info=\"none\" info_place=\"top\" info_trigger=\"hover\"]",
+                      "elements": []
+                    },
+                    {
+                      "title": "Block Grid Item 2",
+                      "_type": "block-grid-item",
+                      "elements": [],
+                      "content": "[x_image type=\"none\" float=\"none\" src=\"http://placehold.it/960x640\" info=\"none\" info_place=\"top\" info_trigger=\"hover\"]"
+                    },
+                    {
+                      "title": "Block Grid Item 3",
+                      "_type": "block-grid-item",
+                      "elements": [],
+                      "content": "[x_image type=\"none\" float=\"none\" src=\"http://placehold.it/960x640\" info=\"none\" info_place=\"top\" info_trigger=\"hover\"]"
+                    },
+                    {
+                      "title": "Block Grid Item 4",
+                      "_type": "block-grid-item",
+                      "elements": [],
+                      "content": "[x_image type=\"none\" float=\"none\" src=\"http://placehold.it/960x640\" info=\"none\" info_place=\"top\" info_trigger=\"hover\"]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

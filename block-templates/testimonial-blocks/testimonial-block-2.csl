@@ -1,0 +1,87 @@
+﻿{
+  "title": "testimonial-block-2",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "testimonial-block-2",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/3 + 1/3 + 1/3",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/3",
+              "elements": [
+                {
+                  "_type": "blockquote",
+                  "content": "It was the most wonderful product I could have possibly imagined. Thank you so much!",
+                  "cite": "Jane Doe",
+                  "class": "mtn",
+                  "style": "font-size: 20px;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "blockquote",
+                  "content": "It was the most wonderful product I could have possibly imagined. Thank you so much!",
+                  "cite": "Jane Doe",
+                  "class": "mtn",
+                  "style": "font-size: 20px;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "blockquote",
+                  "content": "It was the most wonderful product I could have possibly imagined. Thank you so much!",
+                  "cite": "Jane Doe",
+                  "class": "mtn",
+                  "style": "font-size: 20px;",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/4",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "35px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

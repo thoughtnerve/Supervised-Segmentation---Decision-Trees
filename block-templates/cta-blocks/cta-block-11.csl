@@ -1,0 +1,94 @@
+﻿{
+  "title": "cta-block-11",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "cta-block-11",
+      "elements": [
+        {
+          "_type": "row",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/6",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "2/3",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "LIVE WEBINAR",
+                  "text_align": "center-text",
+                  "class": "mtn mbn",
+                  "looks_like": "h4",
+                  "level": "h1",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Launch your estore faster and more profitably than ever before!",
+                  "text_align": "center-text",
+                  "looks_like": "h2",
+                  "class": "mtm mbm",
+                  "elements": [],
+                  "text_color": "#c40505"
+                },
+                {
+                  "_type": "custom-headline",
+                  "text_align": "center-text",
+                  "level": "h3",
+                  "looks_like": "h4",
+                  "content": "Friday, January 1st 2016 @ 5pm EST",
+                  "class": "mtn mbl",
+                  "elements": []
+                },
+                {
+                  "_type": "button",
+                  "block": true,
+                  "content": "SIGN UP NOW",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/6",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "_column_layout": "1/6 + 2/3 + 1/6"
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "65px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

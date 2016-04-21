@@ -1,0 +1,88 @@
+﻿{
+  "title": "cta-block-4",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "cta-block-4",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/5 + 3/5 + 1/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/5",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "3/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "text_align": "center-text",
+                  "class": "mtn mbm",
+                  "content": "Our product will help you accomplish everything you need for your business",
+                  "elements": [],
+                  "text_color": "hsl(0, 0%, 100%)"
+                },
+                {
+                  "_type": "block-grid",
+                  "elements": [
+                    {
+                      "title": "Block Grid Item 1",
+                      "_type": "block-grid-item",
+                      "content": "[x_button shape=\"square\" size=\"regular\" float=\"none\" block=\"true\" href=\"#\" info=\"none\" info_place=\"top\" info_trigger=\"hover\"]Learn More[/x_button]",
+                      "elements": []
+                    },
+                    {
+                      "title": "Block Grid Item 2",
+                      "_type": "block-grid-item",
+                      "elements": [],
+                      "content": "[x_button shape=\"square\" size=\"regular\" float=\"none\" block=\"true\" href=\"#\" info=\"none\" info_place=\"top\" info_trigger=\"hover\" class=\"button-green\"]Free Trial[/x_button]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "bg_type": "color",
+      "bg_color": "rgb(0, 168, 219)",
+      "padding": [
+        "85px",
+        "0px",
+        "65px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

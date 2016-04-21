@@ -1,0 +1,103 @@
+﻿{
+  "title": "content-block-8",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-8",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "3/5 + 2/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "3/5",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "You better believe it!",
+                  "class": "mtn mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "When you think about something wonderful what comes to mind? Most likely it's the incredible service we offer. If not, then surely it's the amazing products you can get from us for such a great value. No? Hmmm, it must be the lovely staff we have on hand to make your shopping experience one-of-a-kind.\n\nMaking the decision to choose us will be rewarding in itself. You'll get something you really need, and you'll find little treats along the way that will delight you.\n\nSo, let's get started today. The process is super easy and only takes a day. We'll be up and running before you can say \"speed demon\". Alright, here we go, let's get a call organized, and begin our work together.",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "2/5",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "feature-list",
+                  "elements": [
+                    {
+                      "_type": "feature-list-item",
+                      "title": "Step 1",
+                      "elements": [],
+                      "content": "This is a critical step to our process that makes everything work so well. You'll be happy with us, and we'll be happy with you.",
+                      "graphic_bg_color": "#1e73be",
+                      "graphic_shape": "circle"
+                    },
+                    {
+                      "_type": "feature-list-item",
+                      "title": "Step 2",
+                      "elements": [],
+                      "content": "This is a critical step to our process that makes everything work so well. You'll be happy with us, and we'll be happy with you.",
+                      "graphic_bg_color": "#1e73be",
+                      "graphic_shape": "circle"
+                    },
+                    {
+                      "_type": "feature-list-item",
+                      "title": "Step 3",
+                      "elements": [],
+                      "content": "This is a critical step to our process that makes everything work so well. You'll be happy with us, and we'll be happy with you.",
+                      "graphic_bg_color": "#1e73be",
+                      "graphic_shape": "circle"
+                    }
+                  ],
+                  "graphic": "numbers"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

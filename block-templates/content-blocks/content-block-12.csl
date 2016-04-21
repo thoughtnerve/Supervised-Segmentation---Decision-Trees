@@ -1,0 +1,89 @@
+﻿{
+  "title": "content-block-12",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-12",
+      "elements": [
+        {
+          "_type": "row",
+          "_column_layout": "1/2 + 1/2",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "1/2",
+              "elements": [
+                {
+                  "_type": "custom-headline",
+                  "content": "Premium feature",
+                  "level": "h5",
+                  "looks_like": "h5",
+                  "class": "mtn mbn",
+                  "style": "font-size: 16px;",
+                  "elements": []
+                },
+                {
+                  "_type": "custom-headline",
+                  "content": "Incredibly awesome feature",
+                  "class": "mts mbs",
+                  "elements": []
+                },
+                {
+                  "_type": "text",
+                  "content": "This feature is so cool you'll want to cry with joy. And for a limited time only, you'll get full access to it, for free. Yep,  I said it, free. So what are you waiting for? There's no reason not to get going today.\n\n<a href=\"#\">Sign up now...</a>",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/2",
+              "_active": true,
+              "elements": [
+                {
+                  "_type": "image",
+                  "elements": [],
+                  "src": "http://placehold.it/960x640",
+                  "class": "aligncenter",
+                  "image_style": "thumbnail"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+﻿{
+  "title": "content-block-1",
+  "elements": [
+    {
+      "_type": "section",
+      "title": "content-block-1",
+      "elements": [
+        {
+          "_type": "row",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": true,
+              "size": "5/6",
+              "elements": [
+                {
+                  "content": "So absolutely incredible",
+                  "level": "h4",
+                  "looks_like": "h4",
+                  "text_align": "none",
+                  "id": "",
+                  "class": "mtn mbs",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "elements": [],
+                  "builder": "false"
+                },
+                {
+                  "_type": "text",
+                  "content": "Some very interesting text to talk more about something that is really wonderful. It's so great to keep going on and on about things like this because people really do care. Keep reading to see what else is so great.",
+                  "elements": []
+                },
+                {
+                  "_type": "gap",
+                  "elements": [],
+                  "gap_size": "45px",
+                  "visibility": [
+                    "x-hide-sm",
+                    "x-hide-xs"
+                  ]
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/6",
+              "_active": true,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": false,
+              "elements": []
+            }
+          ],
+          "_column_layout": "5/6 + 1/6"
+        },
+        {
+          "_type": "row",
+          "title": "New Item 3",
+          "_column_layout": "2/5 + 1/5 + 1/5 + 1/5",
+          "elements": [
+            {
+              "_type": "column",
+              "_active": "1",
+              "size": "2/5",
+              "elements": [
+                {
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "poster": "",
+                  "aspect_ratio": "16:9",
+                  "preload": "none",
+                  "advanced_controls": "true",
+                  "id": "",
+                  "class": "",
+                  "style": "",
+                  "_type": "self-hosted-video",
+                  "elements": [],
+                  "builder": "false",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": "1",
+              "elements": [
+                {
+                  "content": "Did you know?",
+                  "level": "h5",
+                  "looks_like": "h5",
+                  "text_align": "none",
+                  "id": "",
+                  "class": "mtn mbs",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "elements": [],
+                  "builder": "false"
+                },
+                {
+                  "_type": "text",
+                  "content": "It's amazing what you can learn when you read. Something new every day is what they say. And I believe it!",
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": "1",
+              "elements": [
+                {
+                  "content": "Learn More",
+                  "href": "#",
+                  "href_title": "",
+                  "type": "global",
+                  "shape": "global",
+                  "button_size": "small",
+                  "block": "true",
+                  "icon_placement": "before",
+                  "icon_type": "lightbulb-o",
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "id": "",
+                  "style": "",
+                  "_type": "button",
+                  "elements": [],
+                  "builder": "false"
+                },
+                {
+                  "gap_size": "15px",
+                  "visibility": [],
+                  "id": "",
+                  "class": "",
+                  "style": "",
+                  "_type": "gap",
+                  "elements": [],
+                  "builder": "false",
+                  "content": ""
+                },
+                {
+                  "content": "Get Started",
+                  "href": "#",
+                  "href_title": "",
+                  "type": "global",
+                  "shape": "global",
+                  "button_size": "small",
+                  "block": "true",
+                  "icon_placement": "before",
+                  "icon_type": "lightbulb-o",
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "id": "",
+                  "class": "",
+                  "style": "",
+                  "_type": "button",
+                  "elements": [],
+                  "builder": "false"
+                }
+              ]
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": "1",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/5",
+              "_active": "",
+              "elements": []
+            },
+            {
+              "_type": "column",
+              "size": "1/1",
+              "_active": "",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "45px",
+        "0px",
+        "unlinked"
+      ]
+    }
+  ]
+}

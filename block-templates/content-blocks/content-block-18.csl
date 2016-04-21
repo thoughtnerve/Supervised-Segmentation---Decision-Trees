@@ -1,0 +1,390 @@
+﻿{
+  "title": "content-block-18",
+  "elements": [
+    {
+      "title": "content-block-18",
+      "elements": [
+        {
+          "title": "Row 1",
+          "marginlessColumns": false,
+          "elements": [
+            {
+              "size": "2/3",
+              "title": "2/3",
+              "elements": [
+                {
+                  "content": "Everything you need",
+                  "looks_like": "h2",
+                  "text_align": "none",
+                  "class": "mtn mbs",
+                  "style": "",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "accent": true,
+                  "elements": []
+                },
+                {
+                  "content": "Rockstar will make your next concert a smash hit. We have really high quality instruments, decades of practice, and a dedication to make your event one that everyone remember fondly for years to come. From indoor to outdoor venues, our music will make you a hero to your guests.\n<ol>\n\t<li>Awesome sound that sounds great</li>\n\t<li>Really good vocals</li>\n\t<li>Songwriting from heaven</li>\n</ol>\nRockstar will make your next concert a smash hit. We have really high quality instruments, decades of practice, and a dedication to make your event one that everyone remember fondly for years to come. From indoor to outdoor venues, our music will make you a hero to your guests.\n\nRockstar will make your next concert a smash hit. We have really high quality instruments, decades of practice, and a dedication to make your event one that everyone remember fondly for years to come. From indoor to outdoor venues, our music will make you a hero to your guests.",
+                  "text_align": "none",
+                  "class": "",
+                  "style": "",
+                  "_type": "text",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "content": "Contact Us",
+                  "href_title": "",
+                  "href_target": false,
+                  "type": "global",
+                  "shape": "global",
+                  "button_size": "regular",
+                  "block": false,
+                  "circle": false,
+                  "icon_toggle": false,
+                  "icon_placement": "before",
+                  "icon_type": "lightbulb-o",
+                  "info": "none",
+                  "info_place": "top",
+                  "info_trigger": "hover",
+                  "info_content": "",
+                  "style": "",
+                  "_type": "button",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "gap_size": "45px",
+                  "visibility": [
+                    "x-hide-xl",
+                    "x-hide-lg",
+                    "x-hide-md"
+                  ],
+                  "class": "",
+                  "style": "",
+                  "_type": "gap",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/3",
+              "title": "1/3",
+              "elements": [
+                {
+                  "content": "Samples",
+                  "level": "h2",
+                  "looks_like": "h4",
+                  "text_align": "left-text",
+                  "class": "mtn mbm",
+                  "_type": "custom-headline",
+                  "id": "",
+                  "accent": true,
+                  "elements": [],
+                  "text_color": "hsl(0, 0%, 100%)"
+                },
+                {
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "poster": "",
+                  "aspect_ratio": "16:9",
+                  "hide_controls": false,
+                  "autoplay": false,
+                  "no_container": false,
+                  "preload": "none",
+                  "advanced_controls": true,
+                  "muted": false,
+                  "class": "",
+                  "style": "",
+                  "_type": "self-hosted-video",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "poster": "",
+                  "aspect_ratio": "16:9",
+                  "hide_controls": false,
+                  "autoplay": false,
+                  "no_container": false,
+                  "preload": "none",
+                  "advanced_controls": true,
+                  "muted": false,
+                  "class": "",
+                  "style": "",
+                  "_type": "self-hosted-video",
+                  "id": "",
+                  "elements": []
+                },
+                {
+                  "src": "https://youtu.be/sGbxmsDFVnE",
+                  "poster": "",
+                  "aspect_ratio": "16:9",
+                  "hide_controls": false,
+                  "autoplay": false,
+                  "no_container": false,
+                  "preload": "none",
+                  "advanced_controls": true,
+                  "muted": false,
+                  "class": "",
+                  "style": "",
+                  "_type": "self-hosted-video",
+                  "id": "",
+                  "elements": []
+                }
+              ],
+              "bg_color": "rgb(0, 168, 219)",
+              "padding": [
+                "35px",
+                "25px",
+                "25px",
+                "25px",
+                "unlinked"
+              ],
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": true,
+              "id": "",
+              "border_width": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/4",
+              "title": "1/4",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/4",
+              "title": "1/4",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            },
+            {
+              "size": "1/1",
+              "title": "1/1",
+              "bg_color": "",
+              "padding": [
+                "0px",
+                "0px",
+                "0px",
+                "0px",
+                "linked"
+              ],
+              "border_style": "none",
+              "border_color": "",
+              "fade": false,
+              "fade_animation": "in",
+              "fade_animation_offset": "45px",
+              "fade_duration": "750",
+              "text_align": "none",
+              "class": "",
+              "style": "",
+              "_type": "column",
+              "_active": false,
+              "id": "",
+              "elements": [],
+              "border_width": [
+                "1px",
+                "1px",
+                "1px",
+                "1px",
+                "linked"
+              ]
+            }
+          ],
+          "inner_container": true,
+          "marginless_columns": false,
+          "bg_color": "",
+          "margin": [
+            "0px",
+            "auto",
+            "0px",
+            "auto",
+            "unlinked"
+          ],
+          "padding": [
+            "0px",
+            "0px",
+            "0px",
+            "0px",
+            "unlinked"
+          ],
+          "border_style": "none",
+          "border_color": "",
+          "text_align": "none",
+          "visibility": [],
+          "class": "",
+          "style": "",
+          "_type": "row",
+          "_column_layout": "2/3 + 1/3",
+          "id": "",
+          "border_width": [
+            "1px",
+            "1px",
+            "1px",
+            "1px",
+            "linked"
+          ]
+        }
+      ],
+      "bg_color": "",
+      "bg_image": "",
+      "bg_pattern_toggle": false,
+      "parallax": false,
+      "bg_video": "",
+      "bg_video_poster": "",
+      "margin": [
+        "0px",
+        "0px",
+        "0px",
+        "0px",
+        "unlinked"
+      ],
+      "padding": [
+        "65px",
+        "0px",
+        "65px",
+        "0px",
+        "unlinked"
+      ],
+      "border_style": "none",
+      "border_color": "",
+      "text_align": "none",
+      "visibility": [],
+      "class": "",
+      "style": "",
+      "_type": "section",
+      "id": "",
+      "border_width": [
+        "1px",
+        "1px",
+        "1px",
+        "1px",
+        "linked"
+      ]
+    }
+  ]
+}
